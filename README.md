@@ -7,32 +7,27 @@
 
 ### My networks:
 
-[<img align="left" alt="alexvieira.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="alexpvieira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="alexpvieira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="alexandresanches.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Alexandre Sanches | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Alexandre Sanches | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
-![](https://img.shields.io/badge/Python-Django-blue)
-![](https://img.shields.io/badge/PHP-*-red)
-![](https://img.shields.io/badge/Deplhi-Borland-yellowgreen)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-
-![](https://img.shields.io/badge/MySQL-Oracle-yellow)
-![](https://img.shields.io/badge/MSSQL-Microsoft-brightgreen)
-
-![](https://img.shields.io/badge/WSL-Microsoft-orange)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
-
+![](https://img.shields.io/badge/CODE-Python-brightgreen)
+![](https://img.shields.io/badge/CODE-PHP-green)
+![](https://img.shields.io/badge/CODE-Delphi-yellowgreen)
+![](https://img.shields.io/badge/CODE-PL--SQL-blue)
+![](https://img.shields.io/badge/CODE-Javascript-lightgrey)
 ![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
+
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFCA28)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6)
+
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
